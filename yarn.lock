@@ -2858,7 +2858,7 @@
     pbkdf2 "^3.0.9"
     randombytes "^2.0.1"
 
-"@metamask/bip39@file:node_modules_custom/bip39-qbck", "bip39-qbck@file:node_modules_custom/bip39-qbck":
+"@metamask/bip39@file:node_modules_custom/bip39-qbck":
   version "4.0.0"
   dependencies:
     "@types/node" "11.11.6"
@@ -3003,7 +3003,7 @@
   version "4.0.2"
   dependencies:
     "@metamask/eth-sig-util" "^4.0.0"
-    bip39-qbck "file:../../../.cache/yarn/v6/npm-@metamask-eth-hd-keyring-4.0.2-789ab1f6-2b0e-4aff-9305-b2dbefe72cd1-1660652066953/node_modules/@metamask/bip39-qbck"
+    bip39-qbck "file:../../../.cache/yarn/v6/npm-@metamask-eth-hd-keyring-4.0.2-95467e3c-0245-4915-8201-e34f8fcaa4db-1660732657738/node_modules/@metamask/bip39-qbck"
     eth-simple-keyring "^4.2.0"
     ethereumjs-util "^7.0.9"
     ethereumjs-wallet "^1.0.1"
@@ -6878,6 +6878,14 @@ bip32@^2.0.4:
     tiny-secp256k1 "^1.1.0"
     typeforce "^1.11.5"
     wif "^2.0.6"
+
+"bip39-qbck@file:node_modules_custom/bip39-qbck":
+  version "4.0.0"
+  dependencies:
+    "@types/node" "11.11.6"
+    create-hash "^1.1.0"
+    pbkdf2 "^3.0.9"
+    randombytes "^2.0.1"
 
 bip66@^1.1.0, bip66@^1.1.5:
   version "1.1.5"
@@ -11226,8 +11234,8 @@ eth-keyring-controller@^7.0.2:
 "eth-keyring-controller@file:node_modules_custom/eth-keyring-controller":
   version "7.0.2"
   dependencies:
-    "@metamask/bip39" "file:../../../.cache/yarn/v6/npm-eth-keyring-controller-7.0.2-ad2e735c-2c26-4701-a3f5-2fce325f04ca-1660652066948/node_modules/bip39-qbck"
-    "@metamask/eth-hd-keyring" "file:../../../.cache/yarn/v6/npm-eth-keyring-controller-7.0.2-ad2e735c-2c26-4701-a3f5-2fce325f04ca-1660652066948/node_modules/eth-hd-keyring"
+    "@metamask/bip39" "file:../../../.cache/yarn/v6/npm-eth-keyring-controller-7.0.2-051612c6-0a1d-4460-b172-e8647395a476-1660732657735/node_modules/bip39-qbck"
+    "@metamask/eth-hd-keyring" "file:../../../.cache/yarn/v6/npm-eth-keyring-controller-7.0.2-051612c6-0a1d-4460-b172-e8647395a476-1660732657735/node_modules/eth-hd-keyring"
     browser-passworder "^2.0.3"
     eth-sig-util "^3.0.1"
     eth-simple-keyring "^4.2.0"
