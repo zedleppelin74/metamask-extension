@@ -3003,7 +3003,7 @@
   version "4.0.2"
   dependencies:
     "@metamask/eth-sig-util" "^4.0.0"
-    bip39-qbck "file:../../../.cache/yarn/v6/npm-@metamask-eth-hd-keyring-4.0.2-95467e3c-0245-4915-8201-e34f8fcaa4db-1660732657738/node_modules/@metamask/bip39-qbck"
+    bip39-qbck "file:../../../.cache/yarn/v6/npm-@metamask-eth-hd-keyring-4.0.2-0ab92191-c8d4-4b74-82c2-11c03af64c32-1660810930454/node_modules/@metamask/bip39-qbck"
     eth-simple-keyring "^4.2.0"
     ethereumjs-util "^7.0.9"
     ethereumjs-wallet "^1.0.1"
@@ -11234,8 +11234,8 @@ eth-keyring-controller@^7.0.2:
 "eth-keyring-controller@file:node_modules_custom/eth-keyring-controller":
   version "7.0.2"
   dependencies:
-    "@metamask/bip39" "file:../../../.cache/yarn/v6/npm-eth-keyring-controller-7.0.2-051612c6-0a1d-4460-b172-e8647395a476-1660732657735/node_modules/bip39-qbck"
-    "@metamask/eth-hd-keyring" "file:../../../.cache/yarn/v6/npm-eth-keyring-controller-7.0.2-051612c6-0a1d-4460-b172-e8647395a476-1660732657735/node_modules/eth-hd-keyring"
+    "@metamask/bip39" "file:../../../.cache/yarn/v6/npm-eth-keyring-controller-7.0.2-fb96eaf1-5e68-4be1-9528-d8b206d814d8-1660810930450/node_modules/bip39-qbck"
+    "@metamask/eth-hd-keyring" "file:../../../.cache/yarn/v6/npm-eth-keyring-controller-7.0.2-fb96eaf1-5e68-4be1-9528-d8b206d814d8-1660810930450/node_modules/eth-hd-keyring"
     browser-passworder "^2.0.3"
     eth-sig-util "^3.0.1"
     eth-simple-keyring "^4.2.0"
